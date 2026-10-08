@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="btn_save" />
+    <item type="id" name="chk_auto" />
+    <item type="id" name="chk_doubao" />
+    <item type="id" name="chk_en" />
+    <item type="id" name="chk_iflytek" />
+    <item type="id" name="chk_openai" />
+    <item type="id" name="chk_qwen" />
+    <item type="id" name="chk_zh" />
+    <item type="id" name="et_appid" />
+    <item type="id" name="et_key" />
+    <item type="id" name="et_model" />
+    <item type="id" name="et_secret" />
+    <item type="id" name="et_url" />
+    <item type="id" name="row_appid" />
+    <item type="id" name="row_auto" />
+    <item type="id" name="row_doubao" />
+    <item type="id" name="row_en" />
+    <item type="id" name="row_iflytek" />
+    <item type="id" name="row_model" />
+    <item type="id" name="row_openai" />
+    <item type="id" name="row_qwen" />
+    <item type="id" name="row_secret" />
+    <item type="id" name="row_url" />
+    <item type="id" name="row_zh" />
+    <item type="id" name="tv_status" />
+</resources>
